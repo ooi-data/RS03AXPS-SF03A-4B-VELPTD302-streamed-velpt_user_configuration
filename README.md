@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03AXPS-SF03A-4B-VELPTD302-streamed-velpt_user_configuration
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Configuration Data<br>
+Instrument Group Code: VELPT<br>
